@@ -2,4 +2,5 @@ TeaMe is a program with emotional intelligence at its core. Based on The Junto I
 
 This project was completed in 8 days using JavaFx for a level 3 Java course taught by James Winyard @ the Community College of Allegheny County. I was forced to borrow a school System as JavaFX was having issues installing on my home system. I hope to one day round out this project on my own system by adding sound effects, an opening page, background music, and fixing some of the initial bugs.
 
-To run the program, run from "mainStage.java"
+To run the program, run from "mainStage.java" or download zip file for the TeaMe.jar
+
